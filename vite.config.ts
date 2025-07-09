@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
     port: 8080,
-    allowedHosts: ["eco-wear-main.onrender.com"],
+    allowedHosts: ["eco-wear-main-5qaa.onrender.com"],
   },
   build: {
     outDir: "dist/spa",
